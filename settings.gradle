@@ -1,0 +1,5 @@
+rootProject.name = 'LearningGradle'
+include 'service'
+include 'api'
+include 'db'
+
